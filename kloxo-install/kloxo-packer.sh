@@ -28,7 +28,7 @@ echo
 echo " ----------------------------------------------------------------------"
 echo " format: sh $0 --fork=<> --branch=<> --part=<>"
 echo " ----------------------------------------------------------------------"
-echo " --fork - example: lxcenter or mustafaramadhan (for certain developer)"
+echo " --fork - example: lxcenter or DVSBA (for certain developer)"
 echo " --branch - example: master or dev"
 echo " --part - example: core or all (defaulting to all)"
 echo
